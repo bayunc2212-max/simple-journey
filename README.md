@@ -36,8 +36,8 @@ npm -v
 ## Installation
 
 ```bash
-git clone <repository-url>
-cd simple-jurney
+git clone https://github.com/bayunc2212-max/simple-journey.git
+cd simple-journey
 npm install
 ```
 
